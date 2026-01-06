@@ -1,0 +1,15 @@
+C:\temp\netmap\netmap\netmap\bin\Debug\net5.0\netmap.exe
+C:\temp\netmap\netmap\netmap\bin\Debug\net5.0\netmap.deps.json
+C:\temp\netmap\netmap\netmap\bin\Debug\net5.0\netmap.runtimeconfig.json
+C:\temp\netmap\netmap\netmap\bin\Debug\net5.0\netmap.runtimeconfig.dev.json
+C:\temp\netmap\netmap\netmap\bin\Debug\net5.0\netmap.dll
+C:\temp\netmap\netmap\netmap\bin\Debug\net5.0\ref\netmap.dll
+C:\temp\netmap\netmap\netmap\bin\Debug\net5.0\netmap.pdb
+C:\temp\netmap\netmap\netmap\obj\Debug\net5.0\netmap.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\netmap\netmap\netmap\obj\Debug\net5.0\netmap.AssemblyInfoInputs.cache
+C:\temp\netmap\netmap\netmap\obj\Debug\net5.0\netmap.AssemblyInfo.cs
+C:\temp\netmap\netmap\netmap\obj\Debug\net5.0\netmap.csproj.CoreCompileInputs.cache
+C:\temp\netmap\netmap\netmap\obj\Debug\net5.0\netmap.dll
+C:\temp\netmap\netmap\netmap\obj\Debug\net5.0\ref\netmap.dll
+C:\temp\netmap\netmap\netmap\obj\Debug\net5.0\netmap.pdb
+C:\temp\netmap\netmap\netmap\obj\Debug\net5.0\netmap.genruntimeconfig.cache
